@@ -1,0 +1,9 @@
+resolver: lts-18.5
+
+packages: 
+  - .+
+
+extra-deps:
+  - X11-xft-0.3.1
+  - xmonad-0.17.0
+  - xmonad-contrib-0.17.0
